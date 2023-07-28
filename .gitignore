@@ -10,7 +10,8 @@
 
 # next.js
 /.next/
-/out/
+# Include output for github hosting
+# /out/
 
 # production
 /build
